@@ -2,7 +2,6 @@ import Feature from "./Feature";
 import Team from "./Team";
 
 
-// src/pages/Home.jsx
 export default function Home() {
   return (
     <section className="  max-w-[1500px] mx-auto  ">
